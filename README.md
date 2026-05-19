@@ -1,7 +1,7 @@
-# jatio-keyboard-windows
-Bangla jatio keyboard layout installer for Windows. Built to match the typing layout used by standard government systems and media outl
-# Windows-এর জন্য জাতীয় (Jatio) কিবোর্ড লেআউট 🇧🇩
-> A native, lightweight, and updated Jatio (জাতীয়) layout installer for Windows.
+# jatiyo-keyboard-windows
+Bangla jatiyo keyboard layout installer for Windows. Built to match the typing layout used by standard government systems and media outl
+# Windows-এর জন্য জাতীয় (Jatiyo) কিবোর্ড লেআউট 🇧🇩
+> A native, lightweight, and updated Jatiyo (জাতীয়) layout installer for Windows.
 
 [English Version](#english) • [বাংলা সংস্করণ](#bangla) • [🚀 Download Latest Release](#-download-latest-release)
 
@@ -10,7 +10,7 @@ Bangla jatio keyboard layout installer for Windows. Built to match the typing la
 ### 📥 Download Latest Release
 
 To download the Windows setup file directly, click the link below:
-👉 **[Download jatio-keyboard-layout.zip (Latest Installer)](https://github.com/Jahid015/jatio-keyboard-windows/releases/latest)**
+👉 **[Download jatio-keyboard-layout.zip (Latest Installer)](https://github.com/Jahid015/jatiyo-keyboard-windows/releases/latest)**
 
 *(Alternatively, you can always find the download button on the right-hand sidebar/bottom of this webpage under the **Releases** section).*
 
@@ -18,7 +18,7 @@ To download the Windows setup file directly, click the link below:
 <a name="english"></a>
 ## 🇬🇧 English Description
 
-This repository provides a clean, native installation package for the official **Jatio (জাতীয়) Keyboard Layout** standard of Bangladesh. Built to exactly match the input standard used by the **Bangladesh Computer Council (BCC)** and major media outlets like **BBC Bangla**, this layout works natively inside the Windows operating system without requiring heavy third-party software running in the background.
+This repository provides a clean, native installation package for the official **Jatiyo (জাতীয়) Keyboard Layout** standard of Bangladesh. Built to exactly match the input standard used by the **Bangladesh Computer Council (BCC)** and major media outlets like **BBC Bangla**, this layout works natively inside the Windows operating system without requiring heavy third-party software running in the background.
 
 ### 🎯 Key Features
 *   **100% Standard Compliant:** Matches the precise layout mapped by the Bangladesh Government/BCC.
@@ -27,7 +27,7 @@ This repository provides a clean, native installation package for the official *
 
 ### 💡 Why I Built This (Motivation)
 1. **Official Tool is Outdated:** The officially provided setup files from government sources are old, no keyboard shortcut support. 
-2. **Seamless Linux-to-Windows Switching:** Linux distributions (like Ubuntu, Linux Mint, or Zorin OS) include the Jatio layout perfectly out of the box by default. If you use Linux but need to switch to Windows, this installer ensures your muscle memory stays exactly the same.
+2. **Seamless Linux-to-Windows Switching:** Linux distributions (like Ubuntu, Linux Mint, or Zorin OS) include the Jatiyo layout perfectly out of the box by default. If you use Linux but need to switch to Windows, this installer ensures your muscle memory stays exactly the same.
 
 ### ⚠️ Known Limitations & Special Controls
 *   **The Vowel Sign Fallback:** In this native layout engine, pressing the Hasant followed by the Aa-kar (`্` + `া`) **will not** automatically merge to form the standalone vowel `আ`. The same rule applies to other standalone vowels (`আ` through `ঔ`).
@@ -37,14 +37,14 @@ This repository provides a clean, native installation package for the official *
 1. Go to the **Releases** section on the right side/bottom of this page and download `jatiyo.zip` from latest release.
 2. Extract the zip and double-click `setup.exe` to install.
 3. Open Windows **Settings** (`Win + I`) > **Time & Language** > **Language & Region**.
-4. Add **Bangla (Bangladesh)** if you haven't already. Click options, go to **Keyboards**, select **Add a keyboard**, and choose the **Jatio-custom** layout.
+4. Add **Bangla (Bangladesh)** if you haven't already. Click options, go to **Keyboards**, select **Add a keyboard**, and choose the **Jatiyo-custom** layout.
 
 ---
 
 <a name="bangla"></a>
 ## 🇧🇩 বাংলা বিবরণী
 
-উইন্ডোজ অপারেটিং সিস্টেমের জন্য এটি একটি আপডেটেড এবং সম্পূর্ণ নেটিভ **জাতীয় (Jatio) কিবোর্ড লেআউট** ইন্সটলার। **বাংলাদেশ কম্পিউটার কাউন্সিল (BCC)** এবং **বিবিসি বাংলা (BBC Bangla)**-র স্ট্যান্ডার্ড লেআউট অনুসরণ করে এটি তৈরি করা হয়েছে। এটি উইন্ডোজের নিজস্ব সিস্টেমে কাজ করে, তাই ব্যাকগ্রাউন্ডে কোনো ভারী সফটওয়্যার চালু রাখার প্রয়োজন নেই।
+উইন্ডোজ অপারেটিং সিস্টেমের জন্য এটি একটি আপডেটেড এবং সম্পূর্ণ নেটিভ **জাতীয় (Jatiyo) কিবোর্ড লেআউট** ইন্সটলার। **বাংলাদেশ কম্পিউটার কাউন্সিল (BCC)** এবং **বিবিসি বাংলা (BBC Bangla)**-র স্ট্যান্ডার্ড লেআউট অনুসরণ করে এটি তৈরি করা হয়েছে। এটি উইন্ডোজের নিজস্ব সিস্টেমে কাজ করে, তাই ব্যাকগ্রাউন্ডে কোনো ভারী সফটওয়্যার চালু রাখার প্রয়োজন নেই।
 
 ### 💡 কেন এটি তৈরি করা হয়েছে (উদ্দেশ্য)
 ১. **অফিসিয়াল টুলটি অনেক পুরোনো:** সরকারি ওয়েবসাইটগুলোতে থাকা মূল লেআউট ফাইলগুলো বেশ পুরোনো এবং এটিতে শর্টকাট কি (Shortcuts) নেই, মনুয়লি লেআউট চেন্জ করতে হয়।
@@ -58,7 +58,7 @@ This repository provides a clean, native installation package for the official *
 ১. এই পেজের ডানদিকের/একদম নিচের **Releases** সেকশন থেকে লেটেস্ট `jatiyo.zip` ফাইলটি ডাউনলোড করুন।
 ২. জিপ ফাইলটি আনজিপ (Extract) করে `setup.exe` ফাইলটিতে ডাবল-ক্লিক করে ইন্সটল করুন।
 ৩. উইন্ডোজের **Settings** (`Win + I`) > **Time & Language** > **Language & Region**-এ যান।
-৪. **Bangla (Bangladesh)** ল্যাঙ্গুয়েজটির Options-এ গিয়ে **Keyboards** সেকশন থেকে **Add a keyboard**-এ ক্লিক করে আপনার নতুন **Jatio-custom** লেআউটটি সিলেক্ট করে দিন।
+৪. **Bangla (Bangladesh)** ল্যাঙ্গুয়েজটির Options-এ গিয়ে **Keyboards** সেকশন থেকে **Add a keyboard**-এ ক্লিক করে আপনার নতুন **Jatiyo-custom** লেআউটটি সিলেক্ট করে দিন।
 
 ---
 
